@@ -17,7 +17,7 @@ export async function POST() {
             price_data: {
               currency: "jpy",
               product_data: {
-                name: "【限定】青輝石500個",
+                name: "アイテムA",
               },
               unit_amount: 2000,
             },
